@@ -1,8 +1,9 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 .footer {
   padding: 50px;
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
+  text-align: center;
 }
